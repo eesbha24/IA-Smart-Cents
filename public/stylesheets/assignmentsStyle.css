@@ -1,0 +1,16 @@
+ 
+
+form {
+    border: solid 2px rgb(192, 252, 255);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+form:focus-within {
+    border-color: orange;
+}
+
+tr:hover {
+    background-color: #0df1da;
+}
+
